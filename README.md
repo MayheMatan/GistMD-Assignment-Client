@@ -2,21 +2,24 @@
 
 ## A small OnBoarding app for users-handling using React and Node.js
 
----
-
 ## Project Links:
 
-- ⚡ Live Project: [Link](https://mighty-api.s3.eu-central-1.amazonaws.com/index.html)
-- POC - [Link](https://docs.google.com/document/d/1EO46hMZ_tN8RhxRoi7QeXQE3kkOAu02tLZScr6zdJa4/edit?usp=sharing)
-- Front-End Repo: [Link](https://github.com/chikoom/mighty-micro-api)
-- Serverless Repo: [Link](https://github.com/chikoom/serverless-project)
-- Swagger API: [Link](https://app.swaggerhub.com/apis/chikoom2/MightyMicroAPI/1.0.0)
+- Front-End Repo: [Link](https://github.com/MayheMatan/GistMD-Assignment-Client)
+- Back-End Repo: [Link](https://github.com/MayheMatan/GistMD-Assignment-Server)
 
 ---
+
+## How to use
+
+- Clone Back-end Repo
+    - run node server.js in terminal
+- Clone Front-end Repo
+    - run npm start in terminal
+- Open browser on: [link](http://localhost:3000)
 
 ## Tools And Libraries
 
-### Front-End (hosted on S3 Bucket)
+### Front-End
 
 - React
 - MaterialUI
