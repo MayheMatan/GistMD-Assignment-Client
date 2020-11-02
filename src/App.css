@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.MuiFormGroup-root {
+  display: inline !important;
+}
+
+.MuiToolbar-root {
+  background-color: rgb(239, 74, 104);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
